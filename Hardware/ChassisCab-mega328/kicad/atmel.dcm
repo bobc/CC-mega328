@@ -1,0 +1,7 @@
+EESchema-DOCLIB Version 2.3
+#
+$CMP ATMEGA328P-AU
+D MICROCONTROLLER; 4 Kbytes FLASH; 128 bytes SRAM; 256 bytes EEPROM; UART; 6-channel 10 bit ADC
+$ENDCMP
+#
+#End Library
